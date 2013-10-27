@@ -1,8 +1,7 @@
 
 
 
-
-# Real-Time hottests concerts with Node.js
+# Real-Time hot concerts with Node.js
 
 Realtime geolocation of the hottest next events of the LastFM top artists of the month.
 
