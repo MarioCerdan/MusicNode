@@ -1,10 +1,16 @@
-# realtime-geolocation-demo
 
-Realtime geolocation app build on Node.js with HTML5 Geolocation API, Socket.io and Leaflet maps library.
+
+
+
+# Real-Time hottests concerts with Node.js
+
+Realtime geolocation of the hottest next events of the LastFM top artists of the month.
+
+App build on Node.js with Songkick, LastFM, HTML5 Geolocation API, Socket.io and Leaflet maps library.
+
+![alt tag](https://raw.github.com/MarioCerdan/MusicNode/master/MusicNode.png)
 
 ### How to
-
-Tutorial and full description how to start with this demo you can read at http://tympanus.net/codrops/2012/10/11/real-time-geolocation-service-with-node-js/
 
 If you decided to clone this repo, don't forget to run inside it:
 
@@ -19,6 +25,5 @@ npm install
 
 ---
 
-(c) 2012 - 2013 Dmitri Voronianski
+Special thanks to Dimitri Voronianski. App based on his Node.js tutorial 
 
-**MIT Licensed**
