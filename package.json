@@ -3,7 +3,7 @@
   "subdomain": "GeoMusic",
   "author": "Mario Cerdan",
   "scripts": {
-    "start": "server.js"
+  "start": "server.js"
   },
   "version": "0.0.3-1",
   "engines": {
@@ -12,7 +12,8 @@
   "dependencies": {
     "socket.io": "latest",
     "node-static": "latest",
-	"superagent": "latest",
-	"util":"latest"
+    "superagent": "latest",
+    "util":"latest",
+    "lastfm":"latest"
   }
 }
